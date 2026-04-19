@@ -20,5 +20,8 @@ python analyzer.py
 ## Sample Output
 
 ![Graph](graph.png)
+## Description
+This project analyzes student grades from a CSV file, calculates key statistics, and visualizes results using Python and Matplotlib.
+
 ## Author
 YagmurBad
