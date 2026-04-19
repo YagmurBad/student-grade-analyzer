@@ -15,3 +15,4 @@ This is a simple Python project that reads student data from a CSV file and perf
 
 ```bash
 python analyzer.py
+test
