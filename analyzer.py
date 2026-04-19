@@ -28,3 +28,14 @@ print("Highest grade:", highest)
 print("Lowest grade:", lowest)
 print("Passed:", len(passed))
 print("Failed:", len(failed))
+import matplotlib.pyplot as plt
+
+labels = ["Passed", "Failed"]
+values = [len(passed), len(failed)]
+
+plt.bar(labels, values)
+plt.title("Student Results")
+plt.xlabel("Category")
+plt.ylabel("Number of Students")
+
+plt.show()
