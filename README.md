@@ -14,6 +14,4 @@ This is a simple Python project that reads student data from a CSV file and perf
 ## How to run
 
 ```bash
-## Sample Output
-
-![Graph](graph.png)
+python analyzer.py
