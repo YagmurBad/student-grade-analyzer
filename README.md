@@ -20,3 +20,5 @@ python analyzer.py
 ## Sample Output
 
 ![Graph](graph.png)
+## Author
+YagmurBad
