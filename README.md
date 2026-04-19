@@ -12,8 +12,6 @@ This is a simple Python project that reads student data from a CSV file and perf
 - CSV file handling
 
 ## How to run
-```bash
-## How to run
 
 ```bash
 python analyzer.py
